@@ -1,0 +1,43 @@
+Car_id,Date,Customer Name,Gender,Annual Income,Dealer_Name,Company,Model,Engine,Transmission,Color,Price ($),Dealer_No,Body Style,Phone,Dealer_Region
+C_CND_000001,01-02-2020,Geraldine,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Double Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,8264678,Middletown
+C_CND_000002,01-02-2020,Gia,Male,1480000,C & M Motors Inc,Dodge,Durango,Double Overhead Camshaft,Auto,Black,19000,60504-7114,SUV,6848189,Aurora
+C_CND_000003,01-02-2020,Gianna,Male,1035000,Capitol KIA,Cadillac,Eldorado,Overhead Camshaft,Manual,Red,31500,38701-8047,Passenger,7298798,Greenville
+C_CND_000004,01-02-2020,Giselle,Male,13500,Chrysler of Tri-Cities,Toyota,Celica,Overhead Camshaft,Manual,Pale White,14000,99301-3882,SUV,6257557,Pasco
+C_CND_000005,01-02-2020,Grace,Male,1465000,Chrysler Plymouth,Acura,TL,Double Overhead Camshaft,Auto,Red,24500,53546-9427,Hatchback,7081483,Janesville
+C_CND_000006,01-02-2020,Guadalupe,Male,850000,Classic Chevy,Mitsubishi,Diamante,Overhead Camshaft,Manual,Pale White,12000,85257-3102,Hatchback,7315216,Scottsdale
+C_CND_000007,01-02-2020,Hailey,Male,1600000,Clay Johnson Auto Sales,Toyota,Corolla,Overhead Camshaft,Manual,Pale White,14000,78758-7841,Passenger,7727879,Austin
+C_CND_000008,01-02-2020,Graham,Male,13500,U-Haul CO,Mitsubishi,Galant,Double Overhead Camshaft,Auto,Pale White,42000,78758-7841,Passenger,6206512,Austin
+C_CND_000009,01-02-2020,Naomi,Male,815000,Rabun Used Car Sales,Chevrolet,Malibu,Overhead Camshaft,Manual,Pale White,82000,85257-3102,Hardtop,7194857,Pasco
+C_CND_000010,01-02-2020,Grayson,Female,13500,Rabun Used Car Sales,Ford,Escort,Double Overhead Camshaft,Auto,Pale White,15000,85257-3102,Passenger,7836892,Scottsdale
+C_CND_000011,01-02-2020,Gregory,Male,13500,Race Car Help,Acura,RL,Overhead Camshaft,Manual,Pale White,31000,78758-7841,SUV,7995489,Austin
+C_CND_000012,01-02-2020,Amar'E,Male,13500,Race Car Help,Nissan,Pathfinder,Double Overhead Camshaft,Auto,Pale White,46000,78758-7841,Hardtop,7288103,Pasco
+C_CND_000013,01-02-2020,Griffin,Male,885000,Saab-Belle Dodge,Mercury,Grand Marquis,Double Overhead Camshaft,Auto,Black,9000,60504-7114,SUV,6842408,Aurora
+C_CND_000014,01-02-2020,Harrison,Male,13500,Scrivener Performance Engineering,BMW,323i,Double Overhead Camshaft,Auto,Pale White,15000,38701-8047,Hatchback,7558767,Greenville
+C_CND_000015,01-02-2020,Zainab,Male,722000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Sedan,7677191,Middletown
+C_CND_000016,01-02-2020,Zara,Male,746000,C & M Motors Inc,Subaru,Forester,Overhead Camshaft,Manual,Pale White,17000,60504-7114,Hatchback,8431908,Aurora
+C_CND_000017,01-02-2020,Zoe,Female,535000,Capitol KIA,Hyundai,Accent,Overhead Camshaft,Manual,Black,18000,38701-8047,Hatchback,7814646,Greenville
+C_CND_000018,01-02-2020,Zoey,Female,570000,Chrysler of Tri-Cities,Cadillac,Eldorado,Double Overhead Camshaft,Auto,Pale White,31000,99301-3882,Passenger,7456650,Pasco
+C_CND_000019,01-02-2020,Aaliyah,Male,685000,Chrysler Plymouth,Toyota,Land Cruiser,Double Overhead Camshaft,Auto,Pale White,33000,53546-9427,SUV,7627010,Janesville
+C_CND_000020,01-02-2020,Abigail,Male,455000,Classic Chevy,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,21000,85257-3102,Sedan,6736704,Scottsdale
+C_CND_000021,01-02-2020,Adrianna,Male,13500,Clay Johnson Auto Sales,Toyota,4Runner,Overhead Camshaft,Manual,Black,25000,78758-7841,Sedan,7889827,Austin
+C_CND_000022,01-02-2020,Joshua,Male,2500000,Classic Chevy,Infiniti,I30,Double Overhead Camshaft,Auto,Black,21000,85257-3102,Hardtop,6183219,Austin
+C_CND_000023,01-02-2020,Marcus,Male,585000,Diehl Motor CO Inc,Audi,A4,Overhead Camshaft,Manual,Pale White,12000,06457-3834,Hardtop,8097778,Middletown
+C_CND_000024,01-02-2020,Arthur,Male,920000,Star Enterprises Inc,Porsche,Carrera Cabrio,Double Overhead Camshaft,Auto,Pale White,18000,99301-3882,Passenger,7959858,Pasco
+C_CND_000025,01-02-2020,Lizzie,Male,672000,Suburban Ford,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Pale White,22000,53546-9427,Passenger,8570849,Janesville
+C_CND_000026,01-02-2020,Florian,Male,801250,Tri-State Mack Inc,Dodge,Viper,Double Overhead Camshaft,Auto,Pale White,31250,85257-3102,SUV,8520534,Scottsdale
+C_CND_000027,01-02-2020,Cassandre,Female,820000,U-Haul CO,Buick,Regal,Double Overhead Camshaft,Auto,Black,19000,78758-7841,Passenger,6362556,Austin
+C_CND_000028,01-02-2020,Syrielle,Male,791000,Progressive Shippers Cooperative Association No,Chrysler,LHS,Overhead Camshaft,Manual,Pale White,41000,53546-9427,Hatchback,6281210,Janesville
+C_CND_000029,01-02-2020,Sloane,Male,13500,Race Car Help,Chrysler,LHS,Overhead Camshaft,Manual,Pale White,41000,78758-7841,Hatchback,6292720,Janesville
+C_CND_000030,01-02-2020,Sofia,Male,1020000,Ryder Truck Rental and Leasing,Saturn,LW,Overhead Camshaft,Manual,Pale White,13000,06457-3834,Hatchback,7698986,Scottsdale
+C_CND_000031,01-02-2020,Sophia,Male,210000,Saab-Belle Dodge,Mitsubishi,3000GT,Overhead Camshaft,Manual,Pale White,20000,60504-7114,Sedan,8847858,Austin
+C_CND_000032,01-02-2020,Sophie,Male,750000,Scrivener Performance Engineering,Mercedes-B,SLK230,Overhead Camshaft,Manual,Pale White,14000,38701-8047,Hatchback,8344679,Middletown
+C_CND_000033,01-02-2020,Stella,Male,635000,Star Enterprises Inc,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,19000,99301-3882,Sedan,6827044,Aurora
+C_CND_000034,01-02-2020,Suri,Male,675000,Tri-State Mack Inc,Honda,Civic,Overhead Camshaft,Manual,Black,43000,85257-3102,Hatchback,7954038,Greenville
+C_CND_000035,01-02-2020,Sury,Male,880000,U-Haul CO,Jaguar,S-Type,Double Overhead Camshaft,Auto,Black,16000,78758-7841,Passenger,7400390,Pasco
+C_CND_000036,01-03-2020,Haley,Male,13500,Diehl Motor CO Inc,Volvo,S40,Double Overhead Camshaft,Auto,Pale White,42000,06457-3834,Sedan,7153628,Middletown
+C_CND_000037,01-03-2020,Hannah,Male,13500,Enterprise Rent A Car,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21000,60504-7114,SUV,6125796,Aurora
+C_CND_000038,01-03-2020,Haylee,Male,13500,Gartner Buick Hyundai Saab,Buick,Park Avenue,Double Overhead Camshaft,Auto,Black,61000,38701-8047,Hatchback,7438037,Greenville
+C_CND_000039,01-03-2020,Hayley,Male,941000,Hatfield Volkswagen,Mitsubishi,Montero Sport,Double Overhead Camshaft,Auto,Pale White,39000,99301-3882,SUV,6837588,Pasco
+C_CND_000040,01-03-2020,Harry,Female,13500,Star Enterprises Inc,Nissan,Sentra,Double Overhead Camshaft,Auto,Black,16000,99301-3882,Passenger,7213857,Pasco
+C_CND_000041,01-03-2020,Henry,Male,13500,Suburban Ford,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Pale White,26000,53546-9427,Sedan,7704004,Janesville
+C_CND_000042,01-03-2020,Hersh,Female,13500,Tri-State Mack Inc,Volvo,S80,Overhead Camshaft,Manual,Pale White,21000,85257-3102,Sedan,8018700,Scottsdale
